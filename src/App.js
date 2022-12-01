@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <iframe src={'http://gasu.gov.ru'}></iframe>
+    <iframe src={'https://gasu.gov.ru'}></iframe>
   );
 }
 
